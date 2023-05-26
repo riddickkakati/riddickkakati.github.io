@@ -1446,7 +1446,7 @@ color: #AAAAAA;
   .carousel-control .fa-angle-left,
   .carousel-control .fa-angle-right {
     position: absolute;
-    top: 70%;
+    top: 50%;
     font-size: 2em;
     display: inline-block;
   }
@@ -1454,6 +1454,7 @@ color: #AAAAAA;
   .carousel-control {
     background-color: transparent;
     background-image: none !important;
+    z-index: 1000000;
   }
 
   .carousel-control:hover,
