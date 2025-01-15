@@ -33,6 +33,33 @@ message=
 										<div class="item">
 										<img src="assets/images/Cover12.JPG" alt="">
 										</div>
+										<div class="item">
+										<img src="assets/images/Cover14.JPG" alt="">
+										</div>
+										<div class="item">
+										<img src="assets/images/Cover15.JPG" alt="">
+										</div>
+										<div class="item">
+										<img src="assets/images/Cover16.JPG" alt="">
+										</div>
+										<div class="item">
+										<img src="assets/images/Cover17.JPG" alt="">
+										</div>
+										<div class="item">
+										<img src="assets/images/Cover18.JPG" alt="">
+										</div>
+										<div class="item">
+										<img src="assets/images/Cover19.JPG" alt="">
+										</div>
+										<div class="item">
+										<img src="assets/images/Cover20.JPG" alt="">
+										</div>
+										<div class="item">
+										<img src="assets/images/Cover21.JPG" alt="">
+										</div>
+										<div class="item">
+										<img src="assets/images/Cover22.JPG" alt="">
+										</div>
 									</div>
 
 									<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
