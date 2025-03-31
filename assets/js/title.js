@@ -1,7 +1,7 @@
 var space = " ";
 var speed = "50";
 var pos = -20;
-var msg = "Dr. Riddick Kakati- IIT Guwahati";
+var msg = "Dr. Riddick Kakati";
 function Scroll()
 {
     document.title = msg.substring(pos, msg.length) + space;
